@@ -2,10 +2,22 @@
 
 ## Script English
 
-Tired of staring at a blank screen, wishing ideas would just appear?
+**Framework: PAS for SaaS / AI tools**
 
-Meet AdCreative.ai. This isn't just another gadget; it's your personal AI muse, designed to spark brilliance. It learns, it creates, it innovates, all in seconds.
+**Hook (0-3s)**
+Ad fatigue gets expensive fast when every new creative starts from scratch.
 
-Imagine effortlessly generating stunning visuals, captivating ad copy, and fresh concepts that perfectly match your vision. It's clean, modern, and makes creativity feel like a superpower. Say goodbye to creative blocks and hello to endless inspiration.
+**Problem**
+Most teams try to fix this with more tabs, more manual checklists, or another rushed workaround — and the workflow still breaks when volume increases.
 
-Ready to elevate your ideas? Discover AdCreative.ai. Link in bio!
+**Agitate**
+That means slower launches, missed follow-ups, and work that feels done but is impossible to measure.
+
+**Solution**
+AdCreative.ai solves the bottleneck: AdCreative.ai helps generate ad variations, headlines, and visual concepts from your product and audience inputs so you can test more angles quickly.
+
+**Expected outcome**
+Expected result: a larger creative testing queue, faster iteration, and clearer winners for paid campaigns.
+
+**CTA**
+If your current ads are slowing down, create the next batch before performance drops further. Tap the link in bio to see whether AdCreative.ai fits your workflow.

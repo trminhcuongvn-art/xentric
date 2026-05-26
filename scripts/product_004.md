@@ -2,10 +2,22 @@
 
 ## Script English
 
-Ever wondered how some content just *effortlessly* ranks?
+**Framework: PAS for SaaS / AI tools**
 
-Meet Surfer SEO. It’s your ultimate digital compass, transforming complex data into crystal-clear insights. Visualize perfect content outlines, discover hidden keywords, and craft articles that truly resonate.
+**Hook (0-3s)**
+Publishing more content will not help if every article misses search intent.
 
-Imagine your ideas, perfectly optimized, naturally climbing to the top. This isn't just a tool; it's the sleek engine behind your online success, giving your content the polished edge it deserves. Elevate your presence, beautifully.
+**Problem**
+Most teams try to fix this with more tabs, more manual checklists, or another rushed workaround — and the workflow still breaks when volume increases.
 
-Ready for content that performs as beautifully as it looks? Tap the link in bio and get Surfing.
+**Agitate**
+That means slower launches, missed follow-ups, and work that feels done but is impossible to measure.
+
+**Solution**
+Surfer SEO solves the bottleneck: Surfer SEO analyzes the SERP, suggests content structure, related terms, and optimization gaps before you hit publish.
+
+**Expected outcome**
+Expected result: briefs that match what searchers need, cleaner content updates, and a better chance to compete for target keywords.
+
+**CTA**
+If you are planning this week’s blog pipeline, run the brief before writing the article. Tap the link in bio to see whether Surfer SEO fits your workflow.

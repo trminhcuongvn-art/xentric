@@ -2,10 +2,22 @@
 
 ## Script English
 
-Ever feel like your tech clashes with your vibe? What if it didn't have to?
+**Framework: PAS for SaaS / AI tools**
 
-Meet Dub. More than just a gadget, it's a piece of art for your space. Its sleek lines and seamless design effortlessly blend modern function with pure aesthetic.
+**Hook (0-3s)**
+You cannot improve campaigns if every link is just a blind redirect.
 
-Imagine this: a clean desk, a curated corner, an instant upgrade to your daily ritual. Dub isn't just useful; it transforms your environment. It's the silent statement piece you've been searching for.
+**Problem**
+Most teams try to fix this with more tabs, more manual checklists, or another rushed workaround — and the workflow still breaks when volume increases.
 
-Ready to elevate your everyday? Tap the link in bio to discover Dub.
+**Agitate**
+That means slower launches, missed follow-ups, and work that feels done but is impossible to measure.
+
+**Solution**
+Dub solves the bottleneck: Dub gives you short links, branded URLs, UTM control, and click analytics so every newsletter, post, and affiliate CTA can be tracked.
+
+**Expected outcome**
+Expected result: cleaner links, easier attribution, and faster decisions on which channels deserve more effort.
+
+**CTA**
+If you are about to publish a campaign, create tracked Dub links before the traffic goes live. Tap the link in bio to see whether Dub fits your workflow.

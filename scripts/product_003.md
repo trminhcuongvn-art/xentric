@@ -2,10 +2,22 @@
 
 ## Script English
 
-Ever feel like your best ideas get lost in writer's block?
+**Framework: PAS for SaaS / AI tools**
 
-Imagine a sleek, intuitive tool that transforms your thoughts into captivating content, instantly. Copy.ai is your creative co-pilot, generating stunning captions, compelling copy, and engaging scripts in seconds.
+**Hook (0-3s)**
+You do not have a copywriting problem — you have a blank-page bottleneck.
 
-It's effortless. It's brilliant. Stop stressing and start creating with unparalleled ease. Elevate your presence, boost your productivity, and unleash your full creative potential.
+**Problem**
+Most teams try to fix this with more tabs, more manual checklists, or another rushed workaround — and the workflow still breaks when volume increases.
 
-Ready to revolutionize your workflow? Tap the link in bio to experience Copy.ai now.
+**Agitate**
+That means slower launches, missed follow-ups, and work that feels done but is impossible to measure.
+
+**Solution**
+Copy.ai solves the bottleneck: Use Copy.ai to turn product notes, offers, and customer pain points into first drafts for emails, ads, social posts, and landing-page sections.
+
+**Expected outcome**
+Expected result: faster campaign drafts, more angles to test, and less time staring at an empty doc.
+
+**CTA**
+If your launch is waiting on copy, generate the first version today and edit from there. Tap the link in bio to see whether Copy.ai fits your workflow.
